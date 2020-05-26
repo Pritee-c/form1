@@ -3,7 +3,7 @@
   </head>
   <body>
 <form
-  action="https://formspree.io/FORM_ID"
+  action="https://formspree.io/priteechaugule@gmail.com"
   method="POST"
 >
   <label>
