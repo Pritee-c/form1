@@ -6,7 +6,7 @@
   action="https://formspree.io/priteechaugule@gmail.com"
   method="POST"
 >
-  <input type="hidden" name="_next" value="https://github.com/Pritee-c/form1/edit/master/README.md"/>
+  
   <label>
     Your Name:
     <input type="text" name="name">
@@ -20,6 +20,7 @@
     <textarea name="message"></textarea>
   </label>
   <input type="submit" value="Send">
+  <input type="hidden" name="_next" value="https://github.com/Pritee-c/form1/edit/master/README.md"/>
 </form>
     <body>
       </html>
