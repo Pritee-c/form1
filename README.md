@@ -12,6 +12,6 @@
 
     <input name="_formsubmit_id" type="text" style="display:none">
 
-    <input value="Submit" type="submit">
+    <input value="Submit" type="submit"><!--form-->
 </form>
 </body>
