@@ -8,9 +8,9 @@
 
     <input name="name" type="text" id="name">
     <input name="email" type="email" id="email">
-    <textarea name="comment" id="comment" rows="3"></textarea>
+  
 
-    <input name= "honeypot" type="text" style="display:none">
+    
 
     <input value="Submit" type="submit">
 </form>
