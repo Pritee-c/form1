@@ -8,7 +8,7 @@
     <input name="email" type="email" id="email">
     <textarea name="comment" id="comment" rows="3"></textarea>
 
-    <input name="_formsubmit_id" type="text" style="display:none">
+    <input name="honeypot" type="text" style="display:none">
 
     <input value="Submit" type="submit">
 </form>
