@@ -20,7 +20,7 @@
     <textarea name="message"></textarea>
   </label>
   <input type="submit" value="Send">
-  <input type="hidden" name="_next" value="https://github.com/Pritee-c/form1/edit/master/README.md"/>
+  <input type="hidden" name="_next" value="https://pritee-c.github.io/form1/"/>
 </form>
     </body>
       </html>
