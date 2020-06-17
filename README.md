@@ -22,5 +22,5 @@
   <input type="submit" value="Send">
   <input type="hidden" name="_next" value="https://github.com/Pritee-c/form1/edit/master/README.md"/>
 </form>
-    <body>
+    </body>
       </html>
