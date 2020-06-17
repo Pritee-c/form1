@@ -1,26 +1,17 @@
 <html>
   <head>
+    <title>form</title>
   </head>
   <body>
-<form
-  action="https://formspree.io/priteechaugule@gmail.com"
-  method="POST"
->
-  
-  <label>
-    Your Name:
-    <input type="text" name="name">
-  </label>
-  <label>
-    Your Email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Message:
-    <textarea name="message"></textarea>
-  </label>
-  <input type="submit" value="Send">
-  <input type="hidden" name="_next" value="https://pritee-c.github.io/form1/"/>
+<form id="contactform" action="https://formsubmit.io/send/put your unique code here" method="POST">
+    <input name="_redirect" type="hidden" id="name" value="https://pritee-c.github.io/form1/">
+
+    <input name="name" type="text" id="name">
+    <input name="email" type="email" id="email">
+    <textarea name="comment" id="comment" rows="3"></textarea>
+
+    <input name="_formsubmit_id" type="text" style="display:none">
+
+    <input value="Submit" type="submit">
 </form>
-    </body>
-      </html>
+</body>
